@@ -89,9 +89,3 @@ docker run -it --rm \
 - AI-generated code may contain bugs or security issues. Generated projects include a `SECURITY_WARNING.md`; review before deploying.
 - Use the `--config-dir` flag to change where credentials are persisted.
 
-## License
-
-MIT
-# airepo
-# airepo
-# airepo
