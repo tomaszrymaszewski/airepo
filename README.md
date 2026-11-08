@@ -1,4 +1,4 @@
-# airepo
+# Airepo
 
 A Python CLI, deployed as a Docker container, for scraping and forking AI-generated GitHub repositories or generating realistic, complex Next.js projects with the Gemini Antigravity agent.
 
